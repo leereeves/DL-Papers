@@ -1,6 +1,6 @@
 # Literature about deep reinforcement learning with discrete action spaces
 
-## References
+## Deep Q Networks (DQN) and improvements
 
 DQN: Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." nature 518.7540 (2015): 529-533.
 
