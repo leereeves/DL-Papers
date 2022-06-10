@@ -16,3 +16,63 @@ Continual lifelong learning with neural networks: A review
 Experience Replay for Continual Learning
 
 Boltzmann Exploration Done Right
+
+Propositions Concerning Digital Minds and Society
+
+Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem
+
+Explicit Regularization in Overparametrized Models via Noise Injection
+
+Beyond the Imitation Game benchmark (BIG-bench)
+
+Why Agent Foundations? An Overly Abstract Explanation
+
+https://openai.com/blog/techniques-for-training-large-neural-networks/
+
+Learning to Generate Artistic Character Line Drawing
+
+Diffusion-LM Improves Controllable Text Generation
+
+The dopamine circuit as a reward-taxis navigation system
+
+Multi-Game Decision Transformers
+
+Rule-based Information Extraction is Dead!
+Long Live Rule-based Information Extraction Systems!
+
+Language Models are Few-Shot Learners
+
+A survey on recently proposed activation functions for Deep Learning
+
+REINFORCEMENT LEARNING IN CONTINUOUS TIME:
+ADVANTAGE UPDATING
+
+Massively Parallel Methods for Deep Reinforcement Learning
+
+Diagnosing Bottlenecks in Deep Q-learning Algorithms
+
+A Theoretical Analysis of Deep Q-Learning
+
+Deep Q-learning: a robust control approach
+
+Hindsight Experience Replay
+
+CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
+
+Deep Reinforcement Learning and the Deadly Triad
+
+Towards Characterizing Divergence in Deep Q-Learning
+
+Safe and Nested Subgame Solving for Imperfect-Information Games
+
+Delving Deep into Rectifiers:
+Surpassing Human-Level Performance on ImageNet Classification
+
+FIXUP INITIALIZATION:
+RESIDUAL LEARNING WITHOUT NORMALIZATION
+
+Constrained Deep Q-Learning Gradually Approaching Ordinary Q-Learning
+
+Playing Atari with Deep Reinforcement Learning (Minh 2013)
+
+MEMORIZING TRANSFORMERS
