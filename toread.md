@@ -76,3 +76,36 @@ Constrained Deep Q-Learning Gradually Approaching Ordinary Q-Learning
 Playing Atari with Deep Reinforcement Learning (Minh 2013)
 
 MEMORIZING TRANSFORMERS
+
+An Intuitive Introduction to Deep Autoregressive Networks By McClain Thiel
+
+Auto-Encoding Variational Bayes
+
+beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework
+
+Generating Diverse High-Fidelity Images with VQ-VAE-2
+
+Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing
+
+Gotta Learn Fast: A New Benchmark for Generalization in RL
+
+How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks
+
+ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
+
+GPT-3: Language Models are Few-Shot Learners
+
+REINFORCEMENT LEARNING IN CONTINUOUS TIME: ADVANTAGE UPDATING
+
+Offline Reinforcement Learning as One Big Sequence Modeling Problem
+
+Massively Parallel Methods for Deep Reinforcement Learning
+
+Deep Q-learning: a robust control approach
+
+Hindsight Experience Replay
+
+CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
+
+Explicit Regularization in Overparametrized Models via Noise Injection
+
