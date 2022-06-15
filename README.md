@@ -1,3 +1,2 @@
-# Deep learning papers I found interesting, by topic
+# My collection of deep learning resources, mostly research papers
 
-[Deep Reinforcement learning with discrete action spaces](rl-discrete.md)

@@ -1,5 +1,13 @@
 # Reading list
 
+Diagnosing Bottlenecks in Deep Q-learning Algorithms
+
+A Theoretical Analysis of Deep Q-Learning
+
+Deep Q-learning: a robust control approach
+
+Towards Characterizing Divergence in Deep Q-Learning
+
 Adaptive Rational Activations to Boost Deep Reinforcement Learning
 
 StarCraft II: A New Challenge for Reinforcement Learning
@@ -27,8 +35,6 @@ Beyond the Imitation Game benchmark (BIG-bench)
 
 Why Agent Foundations? An Overly Abstract Explanation
 
-https://openai.com/blog/techniques-for-training-large-neural-networks/
-
 Learning to Generate Artistic Character Line Drawing
 
 Diffusion-LM Improves Controllable Text Generation
@@ -49,31 +55,20 @@ ADVANTAGE UPDATING
 
 Massively Parallel Methods for Deep Reinforcement Learning
 
-Diagnosing Bottlenecks in Deep Q-learning Algorithms
-
-A Theoretical Analysis of Deep Q-Learning
-
-Deep Q-learning: a robust control approach
-
 Hindsight Experience Replay
 
 CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
 
 Deep Reinforcement Learning and the Deadly Triad
 
-Towards Characterizing Divergence in Deep Q-Learning
-
 Safe and Nested Subgame Solving for Imperfect-Information Games
 
 Delving Deep into Rectifiers:
 Surpassing Human-Level Performance on ImageNet Classification
 
-FIXUP INITIALIZATION:
-RESIDUAL LEARNING WITHOUT NORMALIZATION
+FIXUP INITIALIZATION: RESIDUAL LEARNING WITHOUT NORMALIZATION
 
 Constrained Deep Q-Learning Gradually Approaching Ordinary Q-Learning
-
-Playing Atari with Deep Reinforcement Learning (Minh 2013)
 
 MEMORIZING TRANSFORMERS
 
@@ -101,11 +96,30 @@ Offline Reinforcement Learning as One Big Sequence Modeling Problem
 
 Massively Parallel Methods for Deep Reinforcement Learning
 
-Deep Q-learning: a robust control approach
-
 Hindsight Experience Replay
 
 CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
 
 Explicit Regularization in Overparametrized Models via Noise Injection
+
+Large-Scale Retrieval for Reinforcement Learning
+
+CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION
+
+Reinforcement Learning with Non-Markovian Rewards
+
+Variational inference & deep learning A new synthesis Kingma, D.P.
+https://pure.uva.nl/ws/files/17891313/Thesis.pdf
+
+Groupoids: Unifying Internal and External Symmetry
+
+A Metric Learning Reality Check
+
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+
+Neural network with unbounded activation functions is universal approximator
+
+State of the Art Control of Atari Games Using Shallow Reinforcement Learning
+
+Efficient BackProp, LeCun et al
 

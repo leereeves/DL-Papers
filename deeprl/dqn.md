@@ -2,7 +2,11 @@
 
 ## Deep Q Networks (DQN) and improvements
 
-DQN: Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." nature 518.7540 (2015): 529-533.
+Mnih, Volodymyr, et al., "Playing Atari with Deep Reinforcement Learning" (2013)
+
+https://arxiv.org/abs/1312.5602
+
+Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." nature 518.7540 (2015): 529-533.
 
 https://daiwk.github.io/assets/dqn.pdf
 
