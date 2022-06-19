@@ -123,3 +123,23 @@ State of the Art Control of Atari Games Using Shallow Reinforcement Learning
 
 Efficient BackProp, LeCun et al
 
+Interpretation and Generalization of Score Matching
+
+Contrastive Learning as Goal-Conditioned Reinforcement Learning
+
+Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learnt
+
+Decentralized Training of Foundation Models in Heterogeneous Environments
+
+Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+
+PARAMETER SPACE NOISE FOR EXPLORATION
+
+Convergence Proof for Actor-Critic Methods Applied to PPO and RUDDER
+
+Deep Deterministic Policy Gradient Based on Double Network Prioritized Experience Replay
+
+Revisiting the Softmax Bellman Operator: Theoretical Properties and Practical Benefits
+
+Learning values across many orders of magnitude
+
