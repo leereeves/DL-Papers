@@ -143,3 +143,44 @@ Revisiting the Softmax Bellman Operator: Theoretical Properties and Practical Be
 
 Learning values across many orders of magnitude
 
+Pythae: Unifying Generative Autoencoders in Python -- A Benchmarking Use Case
+
+Torch-TensorRT: Ahead-of-time compilation of TorchScript / PyTorch JIT for NVIDIA GPUs
+
+BYOL-Explore: Exploration by Bootstrapped Prediction
+
+Prioritized Training on Points that are learnable, Worth Learning, and Not Yet Learnt
+
+DIRECTOR: Generator-Classifiers For Supervised Language Modeling
+
+NEURAL ARCHITECTURE SEARCH WITH REINFORCEMENT LEARNING
+
+mixup: BEYOND EMPIRICAL RISK MINIMIZATION
+
+Improving Generalization in Reinforcement Learning with Mixture Regularization
+
+Focal Self-attention for Local-Global Interactions in Vision Transformers
+
+Efficient Decoder-free Object Detection with Transformers
+
+LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks
+
+ARF: Artistic Radiance Fields
+
+Nonlinear Computation in Deep Linear Networks
+
+Evolution Strategies as a Scalable Alternative to Reinforcement Learning
+
+AI-Written Critiques Help Humans Notice Flaws
+
+Off-the-shelf deep learning is not enough, and requires parsimony, Bayesianity, and causality
+
+Large Language Models are Zero-Shot Reasoners
+
+Explicit Regularization in Overparametrized Models via Noise Injection
+
+HIGH-DIMENSIONAL CONTINUOUS CONTROL USING GENERALIZED ADVANTAGE ESTIMATION
+
+Flamingo: a Visual Language Model for Few-Shot Learning
+
+Few Shots Are All You Need: A Progressive Few Shot Learning Approach for Low Resource Handwriting Recognition
