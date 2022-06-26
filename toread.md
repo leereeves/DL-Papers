@@ -184,3 +184,22 @@ HIGH-DIMENSIONAL CONTINUOUS CONTROL USING GENERALIZED ADVANTAGE ESTIMATION
 Flamingo: a Visual Language Model for Few-Shot Learning
 
 Few Shots Are All You Need: A Progressive Few Shot Learning Approach for Low Resource Handwriting Recognition
+
+Benchmarking deep reinforcement learning for continuous control
+
+Q-prop: Sample-efficient policy gradient with an off-policy critic.
+
+Bridging the gap between value and policy based reinforcement learning.
+
+The reactor: A sample-efficient actor-critic architecture
+
+Addressing function approximation error in actor-critic methods.
+
+PGQ: Combining policy gradient and Q-learning.
+
+Reinforcement learning with deep energy-based policies.
+
+Deep reinforcement learning that matters.
+
+Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+
