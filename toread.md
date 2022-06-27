@@ -66,8 +66,6 @@ Safe and Nested Subgame Solving for Imperfect-Information Games
 Delving Deep into Rectifiers:
 Surpassing Human-Level Performance on ImageNet Classification
 
-FIXUP INITIALIZATION: RESIDUAL LEARNING WITHOUT NORMALIZATION
-
 Constrained Deep Q-Learning Gradually Approaching Ordinary Q-Learning
 
 MEMORIZING TRANSFORMERS
