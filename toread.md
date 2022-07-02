@@ -1,5 +1,9 @@
 # Reading list
 
+https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+
+https://www.automl.org/automated-algorithm-design/dac/literature-overview/
+
 Diagnosing Bottlenecks in Deep Q-learning Algorithms
 
 A Theoretical Analysis of Deep Q-Learning
@@ -199,5 +203,26 @@ Reinforcement learning with deep energy-based policies.
 
 Deep reinforcement learning that matters.
 
-Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)
 
+Gaussian Error Linear Units (GELUs)
+
+The emergence of spectral universality in deep networks
+
+Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks
+
+Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
+
+Understanding the difficulty of training deep feedforward neural networks
+
+What Matters In On-Policy Reinforcement Learning? A Large-Scale Empirical Study
+
+What Matters for On-Policy Deep Actor-Critic Methods? A Large-Scale Study
+
+Challenges of Real-World Reinforcement Learning
+
+Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems
+
+Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability
+
+PARAMETER SPACE NOISE FOR EXPLORATION
