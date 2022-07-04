@@ -226,3 +226,25 @@ Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Probl
 Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability
 
 PARAMETER SPACE NOISE FOR EXPLORATION
+
+Overcoming catastrophic forgetting in neural networks
+
+The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
+
+CATEGORICAL REPARAMETERIZATION WITH GUMBEL-SOFTMAX
+
+Asynchronous Methods for Deep Reinforcement Learning
+
+On the Use and Misuse of Absorbing States in Multi-agent Reinforcement Learning
+
+Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos
+
+Continuous Deep Q-Learning with Model-based Acceleration
+
+Deep exploration via bootstrapped DQN
+
+Count-based exploration with neural density models
+
+Vime: Variational information maximizing exploration
+
+Universal value function approximators
